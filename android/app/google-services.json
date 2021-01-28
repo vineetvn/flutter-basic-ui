@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "209547953463",
+    "project_id": "assignment-1-44da5",
+    "storage_bucket": "assignment-1-44da5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209547953463:android:9f102747dad12c68a6c6b2",
+        "android_client_info": {
+          "package_name": "com.vineet.Assignment_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209547953463-m4s9qd820s1ppkac0vqqhh3kjnsi3utf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEJYXgFP_ARPPfv530aSr08XtOctsu9RI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209547953463-m4s9qd820s1ppkac0vqqhh3kjnsi3utf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
